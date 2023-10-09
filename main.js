@@ -17,9 +17,9 @@ const arrowFunction = (parameter1, parameter2, parameterN) => {
   // utasítás1
   // utasítás2
   // utasításN
-  console.log("parameter1",paramter1)
-  console.log("parameter2",paramter2)
-  console.log("parameterN",paramterN)
+  console.log("parameter1",parameter1)
+  console.log("parameter2",parameter2)
+  console.log("parameterN",parameterN)
   obj.logThis1();
   obj.logThis2();
 }
